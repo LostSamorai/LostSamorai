@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋❤, I'm Mohamed Yasser Abdel Aty</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=500&pause=1000&color=13F700&background=C4FFFA00&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Junior+Software+Developer;Game+Developer+%7C%7C+Mobile+Developer;%7C%7C+Bug+Bounty+Hunter+%7C%7C+Linux+Researcher" alt="Typing SVG" /></a>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostSamorai&theme=chartreuse_dark)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lostsamorai&label=Profile%20views&color=0e75b6&style=flat" alt="lostsamorai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lostsamorai" alt="lostsamorai" /></a> </p>
