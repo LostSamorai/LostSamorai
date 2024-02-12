@@ -1,6 +1,24 @@
 <h1 align="center">Hi 👋❤, I'm Mohamed Yasser Abdel Aty</h1>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostSamorai&theme=chartreuse_dark)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=2000&pause=1000&color=13F700&background=C4FFFA00&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%E2%9D%A4%2C+I'm+Mohamed+Yasser+Abdel+Aty;Junior+Flutter+Mobile+developer+)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lostsamorai&label=Profile%20views&color=0e75b6&style=flat" alt="lostsamorai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lostsamorai" alt="lostsamorai" /></a> </p>
