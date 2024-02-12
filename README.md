@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter Mobile Development & Unity Game Develpment**
 
-- 🤝 I’m looking for help with **Working As Software Development**
+- 🤝 I’m looking for help with **Working As Software Development**![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LostSamorai&theme=chartreuse_dark)
 
 
 
@@ -32,7 +32,7 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostSamorai&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LostSamorai&theme=chartreuse_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LostSamorai&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LostSamorai&theme=chartreuse_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LostSamorai&theme=chartreuse_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LostSamorai&theme=chartreuse_dark&utcOffset=8)
 
