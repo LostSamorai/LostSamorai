@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋❤, I'm Mohamed Yasser Abdel Aty</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=2000&pause=1000&color=13F700&background=C4FFFA00&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Junior+Flutter+Mobile+developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=2000&pause=1000&color=13F700&background=C4FFFA00&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Junior+Flutter+Mobile+developer+||+Bug+Bounty+Hunter+)](https://git.io/typing-svg)
 
 
 
