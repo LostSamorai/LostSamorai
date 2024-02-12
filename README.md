@@ -24,6 +24,10 @@
 
 <p align="left"> <a href="https://twitter.com/@lostsamorai" target="blank"><img src="https://img.shields.io/twitter/follow/@lostsamorai?logo=twitter&style=for-the-badge" alt="@lostsamorai" /></a> </p>
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostSamorai&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LostSamorai&theme=chartreuse_dark)
+
 - 🔭 I’m currently working on **Mobile Development**
 
 - 🌱 I’m currently learning **Flutter || Firebase || API || MySQl || Web Penetration Testing ||Bug Hunting || Freelancing**
