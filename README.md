@@ -18,8 +18,9 @@ LostSamorai@github
 🚩 Interested in Mobile Machine Learning Application development
 ```
 <hr>
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LostSamorai&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=498" alt="GitHub Streak" /></a><h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="45"> Github Stats </h2>
-
+</p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=LostSamorai&theme=monokai	)](https://github.com/ryo-ma/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostSamorai&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LostSamorai&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LostSamorai&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LostSamorai&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LostSamorai&theme=monokai&utcOffset=8)
 
 
