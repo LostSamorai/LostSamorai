@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋❤, I'm Mohamed Yasser Abdel Aty</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=4EF702&background=C4FFFA00&random=false&width=435&lines=Junior+Software+Developer+%7C%7C+Game+Developer+%7C%7C+Mobile+Developer+%7C%7C+Bug+Bounty+Hunter+%7C%7C+Linux+Researcher" alt="Typing SVG" /></a>
 <h3 align="center">Junior Software Developer || Game Developer || Mobile Developer || Bug Bounty Hunter || Linux Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lostsamorai&label=Profile%20views&color=0e75b6&style=flat" alt="lostsamorai" /> </p>
