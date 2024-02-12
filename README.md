@@ -42,7 +42,10 @@
 
 - 📝 I regularly write articles on Medium at My Vulnerabilities that I Found at Some Company [https://medium.com/@midogm2022](https://medium.com/@midogm2022)
 
-- 📫 How to reach me **mohamedgamedeveloper@gmail.com || mohamedyasser115_pg@fcis.bsu.edu.eg || midogm2022@gmail.com**
+- 📫 How to reach me **
+-                       mohamedgamedeveloper@gmail.com
+-                       mohamedyasser115_pg@fcis.bsu.edu.eg
+-                       midogm2022@gmail.com**
 
 - my Links [https://medium.com/@midogm2022 || https://github.com/LostSamorai?tab=repositories](https://medium.com/@midogm2022 || https://github.com/LostSamorai?tab=repositories)
 
