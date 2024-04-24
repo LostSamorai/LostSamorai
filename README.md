@@ -87,7 +87,7 @@ LostSamorai@github
 <br>
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 <p>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-yasser-0a08b5293/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="https://linkedin.com/in/mohamed-yasser-0a08b5293/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
    <a href="https://www.facebook.com/mohamedyasser/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
    <a href="mailto:mohamedgameddeveloper@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
   <a href="https://youtube.com/@mohamedyasser1617?si=Zxn-jStqz_5pySJx"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
