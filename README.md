@@ -4,13 +4,13 @@ Hi, I'm Mohamed Yasser!
 
 <br/>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F71E&random=false&width=435&lines=I'm+a+flutter+developer;Game+Developer+;Always+learning+new+things+;youtuber;+Freelancer+%40+fiverr" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F71E&random=false&width=435&lines=I'm+a+flutter+developer;Always+learning+new+things+;youtuber;+Freelancer+%40+fiverr" alt="Typing SVG" /></a>
 </p>
 
 ```
 LostSamorai@github
 -------------------------
-💻 I am a self taught Flutter Mobile Developer and a Web Penetration Tester
+💻 I am a self taught Flutter Mobile Developer And Software dedeloper
 📝 I have a strong interest in Linux Destrobutions like kali & BlackArch & Sigint &Garuda Linux OS
 🔭 Working on Software Development & testing
 🌱 Learning about Cyber Security Techniques at Both platform Web & Mobile like Owasp Top10 & CVE
