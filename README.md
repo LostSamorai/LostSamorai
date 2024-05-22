@@ -4,7 +4,7 @@ Hi, I'm Mohamed Yasser!
 
 <br/>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F71E&random=false&width=435&lines=I'm+a+flutter+developer;Always+learning+new+things+;youtuber;+Freelancer+%40+fiverr" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F71E&random=false&width=435&lines=I'm+a+Software+developer;Always+learning+new+things+;youtuber;+Freelancer+%40+fiverr" alt="Typing SVG" /></a>
 </p>
 
 ```
