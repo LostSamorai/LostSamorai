@@ -15,7 +15,7 @@ LostSamorai@github
 🔭 Working on Software Development & testing
 🌱 Learning about Cyber Security Techniques at Both platform Web & Mobile like Owasp Top10 & CVE
 🌟 Main languages: Python , JavaScript , bash , c# , Kotlin , Java , Dart , Swift , Html , MYSQL , Microsoft Sql Server
-🚩 Interested in Mobile Machine Learning Application development
+🚩 Interested in develop any thing 
 ```
 <hr>
 <p align="center">
