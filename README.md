@@ -10,7 +10,7 @@ Hi, I'm Mohamed Yasser!
 ```
 LostSamorai@github
 -------------------------
-💻 I am a self taught Flutter Mobile Developer And Back End Developer
+💻 I am a self taught Back End Developer and Front end Developer (React)
 📝 I have a strong interest in Linux Destrobutions like kali & BlackArch & Sigint &Garuda Linux OS
 🔭 Working on Software Development & testing
 🌱 Learning about Cyber Security Techniques at Both platform Web & Mobile like Owasp Top10 & CVE
